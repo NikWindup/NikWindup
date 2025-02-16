@@ -1,5 +1,6 @@
 # NikWindup
-- 17
+## About Me
+- 17 years old
 
 
 ### Steps torwards learning a new language
